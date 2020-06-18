@@ -1,3 +1,10 @@
+---
+layout: post
+mathjax: true
+title: math
+---
+
+
 ```python
 "hello, welcome to my page"
 ```
