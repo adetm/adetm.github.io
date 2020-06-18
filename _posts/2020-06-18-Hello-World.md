@@ -4,7 +4,7 @@ mathjax: true
 title: math
 ---
 
-$$y = mx+ m$$
+$$y = mx+ n$$
 
 ```python
 "hello, welcome to my page"
